@@ -83,7 +83,7 @@ class Point(object):
     def get_distance_traveled(self):
         count = self.count
         for k in range count
-            
+
 
 
 
